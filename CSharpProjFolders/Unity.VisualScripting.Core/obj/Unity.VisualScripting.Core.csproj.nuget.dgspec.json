@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.VisualScripting.Core\\Unity.VisualScripting.Core.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.InputSystem\\Unity.InputSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.InputSystem\\Unity.InputSystem.csproj",
+        "projectName": "Unity.InputSystem",
+        "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.InputSystem\\Unity.InputSystem.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.InputSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj"
+              },
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.VisualScripting.Core\\Unity.VisualScripting.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.VisualScripting.Core\\Unity.VisualScripting.Core.csproj",
+        "projectName": "Unity.VisualScripting.Core",
+        "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.VisualScripting.Core\\Unity.VisualScripting.Core.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.VisualScripting.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.InputSystem\\Unity.InputSystem.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Unity.InputSystem\\Unity.InputSystem.csproj"
+              },
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj"
+              },
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.TestRunner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj"
+              },
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj"
+              },
+              "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.TestRunner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\UnityEngine.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

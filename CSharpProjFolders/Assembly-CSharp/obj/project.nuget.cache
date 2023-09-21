@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AYtiALMdiI0fu5J+l1NtvCY5kTl4ylbxEjfghrOezOr9UV8POBwyOFfFRyaTzdjcCwN5knpnvLyE21UwiQpC9Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\edgar\\Desktop\\EdgarVelazquezXimenaMunoz_Code\\Code\\GoodDashboard\\CSharpProjFolders\\Assembly-CSharp\\Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.unity.analyzers\\1.17.0\\microsoft.unity.analyzers.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
